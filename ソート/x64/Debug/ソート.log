@@ -1,2 +1,7 @@
-﻿  RadixSort.cpp
+﻿  Main.cpp
+D:\Taji Kousei\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244: '初期化中': '_Rep' から 'double' への変換です。データが失われる可能性があります。
+D:\Taji Kousei\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:         with
+D:\Taji Kousei\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:         [
+D:\Taji Kousei\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:             _Rep=__int64
+D:\Taji Kousei\GitHub\ソート\ソート\Main.cpp(47,17): warning C4244:         ]
   ソート.vcxproj -> D:\Taji Kousei\GitHub\ソート\x64\Debug\ソート.exe
